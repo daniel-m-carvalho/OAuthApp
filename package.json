@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
+  "scripts": {
+    "start": "node relying-party.mjs"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
