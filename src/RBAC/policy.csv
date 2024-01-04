@@ -1,0 +1,10 @@
+p, free, tasks, read
+p, free, milestones, read
+p, premium, tasks, write
+p, premium, milestones, write
+
+g, premium, free
+g, admin, premium
+
+g, carolinamatavares@gmail.com, premium
+g, d.martinho2003@gmail.com, admin
