@@ -23,8 +23,9 @@ This web application is designed to allow users to create tasks using the Google
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Configure environment variables for Google Tasks API and GitHub integration.
-4. Run the application using `npm start`.
-5. Access the application at `http://localhost:3001`.
+4. Navigate to the `src` directory
+5. Run the application using `npm start`.
+6. Access the application at `http://localhost:3001`.
 
 Feel free to explore the features and roles specified in the application. Enjoy task management with Google Tasks and GitHub Milestones integration!
 
