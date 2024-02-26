@@ -1,6 +1,6 @@
 # Google Tasks Web Application with GitHub Milestones Integration
 
-This web application is designed to allow users to create tasks using the Google Tasks API [1] through the integration of GitHub project milestones [2]. Access to private GitHub projects is optional but highly valued.
+This web application is designed to allow users to create tasks using the Google Tasks API through the integration of GitHub project milestones. Access to private GitHub projects is optional but highly valued.
 
 ## Application Requirements
 
