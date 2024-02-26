@@ -33,5 +33,5 @@ Feel free to explore the features and roles specified in the application. Enjoy 
 
 Instituto Superior de Engenharia de Lisboa<br>
 BSc in Computer Science and Engineering<br>
-Programming in Mobile Devices<br>
+Computer Security<br>
 Winter Semester of 2023/2024
