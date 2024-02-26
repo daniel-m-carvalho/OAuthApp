@@ -29,3 +29,9 @@ This web application is designed to allow users to create tasks using the Google
 
 Feel free to explore the features and roles specified in the application. Enjoy task management with Google Tasks and GitHub Milestones integration!
 
+---
+
+Instituto Superior de Engenharia de Lisboa<br>
+BSc in Computer Science and Engineering<br>
+Programming in Mobile Devices<br>
+Winter Semester of 2023/2024
