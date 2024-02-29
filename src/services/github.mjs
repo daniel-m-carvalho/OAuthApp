@@ -7,8 +7,8 @@ import jwt from "jsonwebtoken";
 const CALLBACK = "callback";
 
 let credentials = {
-  CLIENT_ID: "a4b76c23535e867ecd4b",
-  CLIENT_SECRET: "a90fd6b461cc14dd7cd22175fa0afec586cdf80c",
+  CLIENT_ID: "GITHUB_CLIENT_ID",
+  CLIENT_SECRET: "GITHUB_CLIENT_SECRET",
 };
 
 let container = [];
