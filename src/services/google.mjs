@@ -9,8 +9,8 @@ const CALLBACK = "callback";
 
 let credentials = {
   CLIENT_ID:
-    "666288151556-4re22n09eqa2o0ipgne08s2u79rqt90k.apps.googleusercontent.com",
-  CLIENT_SECRET: "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",
+    "GOOGLE_CLIENT_ID",
+  CLIENT_SECRET: "GOOGLE_CLIENT_SECRET",
 };
 
 let container = [];
